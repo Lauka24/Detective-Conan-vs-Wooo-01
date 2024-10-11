@@ -92,22 +92,22 @@ Dialogue: 0,0:02:46.73,0:02:48.72,Dialogue,,0,0,0,,És ez a Woo...
 Dialogue: 0,0:02:49.33,0:02:51.10,Dialogue,,0,0,0,,Értem már, hát így történt!
 Dialogue: 0,0:02:54.89,0:02:57.60,Dialogue,,0,0,0,,A tettes itt van köztünk.
 Dialogue: 0,0:02:57.89,0:03:01.64,Dialogue,,0,0,0,,Az elkövető, aki megölte Kobayashi Hiroaki-t...
-Dialogue: 0,0:03:02.89,0:03:05.73,Dialogue Top,,0,0,0,,Nyomással és gőzzel finom, gyors ételeket készíthet!
-Dialogue: 0,0:03:04.83,0:03:07.24,Dialogue Top,,0,0,0,,A gőzt is lekapcsolja!
-Dialogue: 0,0:03:04.81,0:03:07.25,Dialogue,,0,0,0,,Ma is megvan!
-Dialogue: 0,0:03:06.65,0:03:07.28,Dialogue,,0,0,0,,A tettes...
-Dialogue: 0,0:03:07.28,0:03:09.18,Dialogue,,0,0,0,,Yamakami Yuuhei!
-Dialogue: 0,0:03:09.19,0:03:11.65,Dialogue,,0,0,0,,Bácsi, te már láttad ezt a műsort, igaz?
-Dialogue: 0,0:03:11.70,0:03:12.09,Dialogue,,0,0,0,,Miről beszélsz?
-Dialogue: 0,0:03:12.15,0:03:12.76,Dialogue,,0,0,0,,Hogy nézhettem volna meg ezt—
-Dialogue: 0,0:03:12.74,0:03:13.74,Dialogue,Alt,0,0,0,,Igaza van!
-Dialogue: 0,0:03:13.79,0:03:16.39,Dialogue,,0,0,0,,A TV apa szobájában nem tud videót felvenni.
-Dialogue: 0,0:03:16.39,0:03:21.10,Dialogue,,0,0,0,,És, amikor ez a dráma ment, mi mind\Negy másik műsort néztünk itt, nem igaz?
-Dialogue: 0,0:03:21.46,0:03:23.00,Dialogue,,0,0,0,,D L N A.
-Dialogue: 0,0:03:23.77,0:03:24.87,Dialogue,,0,0,0,,D L N A?
-Dialogue: 0,0:03:25.13,0:03:25.73,Dialogue,,0,0,0,,Igen.
-Dialogue: 0,0:03:25.73,0:03:27.56,Dialogue,,0,0,0,,Digital Living Network Alliance.
-Dialogue: 0,0:03:27.57,0:03:33.34,Dialogue,,0,0,0,,Ennek segítségével a nappali tévéjén felvett\Nműsor a bácsi szobájában lévő Wooo-n nézhető.
+Dialogue: 0,0:03:03.38,0:03:05.38,Dialogue Top,,0,0,0,,Nyomással és gőzzel finom, gyors ételeket készíthet!
+Dialogue: 0,0:03:05.38,0:03:06.85,Dialogue Top,,0,0,0,,A gőzt is lekapcsolja!
+Dialogue: 0,0:03:05.38,0:03:06.90,Dialogue,,0,0,0,,Ma is megvan!
+Dialogue: 0,0:03:06.91,0:03:08.00,Dialogue,,0,0,0,,A tettes...
+Dialogue: 0,0:03:08.01,0:03:09.18,Dialogue,,0,0,0,,Yamakami Yuuhei!
+Dialogue: 0,0:03:09.20,0:03:11.64,Dialogue,,0,0,0,,Bácsi, te már láttad ezt a műsort, igaz?
+Dialogue: 0,0:03:11.65,0:03:12.77,Dialogue,,0,0,0,,Miről beszélsz?
+Dialogue: 0,0:03:12.79,0:03:14.51,Dialogue,,0,0,0,,Hogy nézhettem volna meg ezt—
+Dialogue: 0,0:03:13.34,0:03:14.53,Dialogue,Alt,0,0,0,,Igaza van!
+Dialogue: 0,0:03:14.54,0:03:17.30,Dialogue,,0,0,0,,A TV apa szobájában nem tud videót felvenni.
+Dialogue: 0,0:03:17.31,0:03:22.19,Dialogue,,0,0,0,,És, amikor ez a dráma ment, mi mind\Negy másik műsort néztünk itt, nem igaz?
+Dialogue: 0,0:03:22.10,0:03:24.00,Dialogue,,0,0,0,,D L N A.
+Dialogue: 0,0:03:37.77,0:03:25.56,Dialogue,,0,0,0,,D L N A?
+Dialogue: 0,0:03:25.94,0:03:26.35,Dialogue,,0,0,0,,Igen.
+Dialogue: 0,0:03:26.38,0:03:28.06,Dialogue,,0,0,0,,Digital Living Network Alliance.
+Dialogue: 0,0:03:28.07,0:03:34.17,Dialogue,,0,0,0,,Ennek segítségével a nappali tévéjén felvett\Nműsor a bácsi szobájában lévő Wooo-n nézhető.
 Dialogue: 0,0:03:34.44,0:03:35.51,Dialogue,,0,0,0,,Ezt nem tudtam!
 Dialogue: 0,0:03:36.11,0:03:37.64,Dialogue,,0,0,0,,Szóval a Wooo-nak van ilyen funkciója is!
 Dialogue: 0,0:03:38.00,0:03:40.40,Dialogue,,0,0,0,,Ha csatlakoztatod a Wooo-t az internethez...
