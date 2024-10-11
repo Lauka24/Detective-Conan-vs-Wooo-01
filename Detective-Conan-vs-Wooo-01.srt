@@ -92,63 +92,63 @@ Dialogue: 0,0:02:46.73,0:02:48.72,Dialogue,,0,0,0,,És ez a Woo...
 Dialogue: 0,0:02:49.33,0:02:51.10,Dialogue,,0,0,0,,Értem már, hát így történt!
 Dialogue: 0,0:02:54.80,0:02:57.60,Dialogue,,0,0,0,,A tettes itt van köztünk.
 Dialogue: 0,0:02:57.81,0:03:01.64,Dialogue,,0,0,0,,Az elkövető, aki megölte Kobayashi Hiroaki-t...
-Dialogue: 0,0:03:03.73,0:03:05.73,Dialogue Top,,0,0,0,,Nyomással és gőzzel finom, gyors ételeket készíthet!
-Dialogue: 0,0:03:05.74,0:03:07.24,Dialogue Top,,0,0,0,,A gőzt is lekapcsolja!
-Dialogue: 0,0:03:05.75,0:03:07.25,Dialogue,,0,0,0,,Ma is megvan!
-Dialogue: 0,0:03:07.52,0:03:08.28,Dialogue,,0,0,0,,A tettes...
-Dialogue: 0,0:03:08.28,0:03:09.18,Dialogue,,0,0,0,,Yamakami Yuuhei!
-Dialogue: 0,0:03:09.48,0:03:11.65,Dialogue,,0,0,0,,Bácsi, te már láttad ezt a műsort, igaz?
-Dialogue: 0,0:03:12.15,0:03:13.09,Dialogue,,0,0,0,,Miről beszélsz?
-Dialogue: 0,0:03:13.09,0:03:14.76,Dialogue,,0,0,0,,Hogy nézhettem volna meg ezt—
-Dialogue: 0,0:03:13.74,0:03:14.74,Dialogue,Alt,0,0,0,,Igaza van!
-Dialogue: 0,0:03:14.76,0:03:17.39,Dialogue,,0,0,0,,A TV apa szobájában nem tud videót felvenni.
-Dialogue: 0,0:03:17.39,0:03:22.10,Dialogue,,0,0,0,,És, amikor ez a dráma ment, mi mind\Negy másik műsort néztünk itt, nem igaz?
-Dialogue: 0,0:03:22.46,0:03:24.00,Dialogue,,0,0,0,,D L N A.
-Dialogue: 0,0:03:24.77,0:03:25.87,Dialogue,,0,0,0,,D L N A?
-Dialogue: 0,0:03:26.13,0:03:26.73,Dialogue,,0,0,0,,Igen.
-Dialogue: 0,0:03:26.73,0:03:28.56,Dialogue,,0,0,0,,Digital Living Network Alliance.
-Dialogue: 0,0:03:28.57,0:03:34.34,Dialogue,,0,0,0,,Ennek segítségével a nappali tévéjén felvett\Nműsor a bácsi szobájában lévő Wooo-n nézhető.
-Dialogue: 0,0:03:34.71,0:03:36.11,Dialogue,,0,0,0,,Ezt nem tudtam!
-Dialogue: 0,0:03:36.11,0:03:37.95,Dialogue,,0,0,0,,Szóval a Wooo-nak van ilyen funkciója is!
-Dialogue: 0,0:03:38.51,0:03:40.61,Dialogue,,0,0,0,,Ha csatlakoztatod a Wooo-t az internethez...
-Dialogue: 0,0:03:40.62,0:03:44.15,Dialogue,,0,0,0,,A felvett műsorokat akár egy másik szobában is megnézheted.
-Dialogue: 0,0:03:44.15,0:03:45.82,Dialogue,,0,0,0,,Ezt hallottam Agasa professzortól.
-Dialogue: 0,0:03:46.32,0:03:49.19,Dialogue,,0,0,0,,A bácsi egyszerűen beállította a Woo-t\Na nappaliban, hogy rögzítse a drámát...
-Dialogue: 0,0:03:49.19,0:03:51.89,Dialogue,,0,0,0,,És a DLNA szerver funkciót használva...
-Dialogue: 0,0:03:51.89,0:03:54.73,Dialogue,,0,0,0,,Képes volt előretekerni és megnézni a\Ndrámát a Woo-n a szobájában!
-Dialogue: 0,0:03:55.03,0:03:56.50,Dialogue,,0,0,0,,Mi a fene, apa!?
-Dialogue: 0,0:03:56.50,0:03:59.60,Dialogue,,0,0,0,,Úgy csaltál, hogy minden egyes alkalommal\Nelőre megnézted a felvett műsort!?
-Dialogue: 0,0:03:57.72,0:03:59.59,Dialogue Top,,0,0,0,,Nem, nem, ez nem az amire...
-Dialogue: 0,0:03:59.97,0:04:01.10,Dialogue,,0,0,0,,Ran nővérkém...
-Dialogue: 0,0:04:01.67,0:04:03.07,Dialogue,,0,0,0,,Ismered ezeket az embereket?
-Dialogue: 0,0:04:03.61,0:04:05.27,Dialogue,,0,0,0,,Ők azok, akik a minap nálunk voltak, igaz?
-Dialogue: 0,0:04:05.81,0:04:07.01,Dialogue,,0,0,0,,És, ez.
-Dialogue: 0,0:04:07.51,0:04:10.41,Dialogue,,0,0,0,,„24 Órás Premier Plán Sorozat”?
-Dialogue: 0,0:04:10.41,0:04:12.68,Dialogue,,0,0,0,,Azt írja, hogy egy közeli interjú, de azóta nem jöttek vissza...
-Dialogue: 0,0:04:13.38,0:04:14.82,Dialogue,,0,0,0,,Ez egy kandikamera.
-Dialogue: 0,0:04:15.28,0:04:16.78,Dialogue,,0,0,0,,Akkor készítették ide.
-Dialogue: 0,0:04:17.79,0:04:22.79,Dialogue,,0,0,0,,Gondoltam, hogy valami más a szobában, mint szokott,\Nkiderült, hogy ez a növény rejtette el a kamerát.
-Dialogue: 0,0:04:22.79,0:04:25.26,Dialogue,,0,0,0,,Jaj ne, akkor egész idő alatt vettek minket?
-Dialogue: 0,0:04:25.66,0:04:26.96,Dialogue,,0,0,0,,Ne aggódj.
-Dialogue: 0,0:04:26.96,0:04:28.66,Dialogue,,0,0,0,,Már kikapcsoltam a kamerát.
-Dialogue: 0,0:04:30.45,0:04:31.00,Dialogue,,0,0,0,,Geez! Jesszus!
-Dialogue: 0,0:04:31.25,0:04:34.47,Dialogue,,0,0,0,,Apa, hogy mehettél bele ilyesmibe engedély nélül?!?
-Dialogue: 0,0:04:32.86,0:04:34.46,Dialogue Top,,0,0,0,,Ez csak egy kis ingyenes szolgáltatás!
-Dialogue: 0,0:04:35.20,0:04:39.27,Dialogue,,0,0,0,,Először is, ennek a műsornak nem a {\i1}természetes{\i0} énünket kéne felvegye?!
-Dialogue: 0,0:04:41.01,0:04:42.68,Dialogue,,0,0,0,,Legyen az apa vagy Shinichi!
-Dialogue: 0,0:04:44.31,0:04:46.38,Dialogue,,0,0,0,,Miért kell minden nyomozónak ilyennek lennie!?
-Dialogue: 0,0:04:46.78,0:04:48.52,Dialogue,,0,0,0,,Ajj, nem hiszem el!
-Dialogue: 0,0:04:48.52,0:04:50.22,Dialogue,,0,0,0,,Miért kell engem is megemlítened?
-Dialogue: 0,0:04:50.22,0:04:51.27,Dialogue,,0,0,0,,Hihetetlen!
-Dialogue: 0,0:05:33.70,0:05:35.72,Dialogue,,0,0,0,,24 Órás Premier Plán Sorozat”!
-Dialogue: 0,0:05:35.72,0:05:39.30,Dialogue,,0,0,0,,Kameránk ezúttal a híres nyomozóra, Mouri Kogoróra és családjára fókuszált!
-Dialogue: 0,0:05:40.13,0:05:41.27,Dialogue,,0,0,0,,Ott vagyok a képernyőn!
-Dialogue: 0,0:05:42.20,0:05:44.00,Dialogue,,0,0,0,,Milyen jóképűnek látszom!
-Dialogue: 0,0:05:44.01,0:05:45.21,Dialogue,,0,0,0,,Én is látszom!
-Dialogue: 0,0:05:45.71,0:05:47.67,Dialogue,,0,0,0,,Klassz lett ez a felvétel, ugye?!
-Dialogue: 0,0:05:48.24,0:05:49.14,Dialogue,,0,0,0,,Az csak a látszat volt!
-Dialogue: 0,0:05:51.01,0:05:55.78,Dialogue,,0,0,0,,Ez a híres nyomozó, Móri Kogoró magánélete,\Naki bárhová megy, megoldja az eseteket..
-Dialogue: 0,0:05:55.78,0:05:59.59,Dialogue,,0,0,0,,Egy játékos oldalát mutatta meg, mikor még\Na családjának is rejtélyeket fejtett meg.
+Dialogue: 0,0:03:02.73,0:03:05.73,Dialogue Top,,0,0,0,,Nyomással és gőzzel finom, gyors ételeket készíthet!
+Dialogue: 0,0:03:04.74,0:03:07.24,Dialogue Top,,0,0,0,,A gőzt is lekapcsolja!
+Dialogue: 0,0:03:04.75,0:03:07.25,Dialogue,,0,0,0,,Ma is megvan!
+Dialogue: 0,0:03:06.52,0:03:08.28,Dialogue,,0,0,0,,A tettes...
+Dialogue: 0,0:03:07.28,0:03:09.18,Dialogue,,0,0,0,,Yamakami Yuuhei!
+Dialogue: 0,0:03:08.48,0:03:11.65,Dialogue,,0,0,0,,Bácsi, te már láttad ezt a műsort, igaz?
+Dialogue: 0,0:03:11.15,0:03:13.09,Dialogue,,0,0,0,,Miről beszélsz?
+Dialogue: 0,0:03:12.09,0:03:14.76,Dialogue,,0,0,0,,Hogy nézhettem volna meg ezt—
+Dialogue: 0,0:03:12.74,0:03:14.74,Dialogue,Alt,0,0,0,,Igaza van!
+Dialogue: 0,0:03:13.76,0:03:17.39,Dialogue,,0,0,0,,A TV apa szobájában nem tud videót felvenni.
+Dialogue: 0,0:03:16.39,0:03:22.10,Dialogue,,0,0,0,,És, amikor ez a dráma ment, mi mind\Negy másik műsort néztünk itt, nem igaz?
+Dialogue: 0,0:03:21.46,0:03:24.00,Dialogue,,0,0,0,,D L N A.
+Dialogue: 0,0:03:23.77,0:03:25.87,Dialogue,,0,0,0,,D L N A?
+Dialogue: 0,0:03:25.13,0:03:26.73,Dialogue,,0,0,0,,Igen.
+Dialogue: 0,0:03:25.73,0:03:28.56,Dialogue,,0,0,0,,Digital Living Network Alliance.
+Dialogue: 0,0:03:27.57,0:03:34.34,Dialogue,,0,0,0,,Ennek segítségével a nappali tévéjén felvett\Nműsor a bácsi szobájában lévő Wooo-n nézhető.
+Dialogue: 0,0:03:33.71,0:03:36.11,Dialogue,,0,0,0,,Ezt nem tudtam!
+Dialogue: 0,0:03:35.11,0:03:37.95,Dialogue,,0,0,0,,Szóval a Wooo-nak van ilyen funkciója is!
+Dialogue: 0,0:03:37.51,0:03:40.61,Dialogue,,0,0,0,,Ha csatlakoztatod a Wooo-t az internethez...
+Dialogue: 0,0:03:39.62,0:03:44.15,Dialogue,,0,0,0,,A felvett műsorokat akár egy másik szobában is megnézheted.
+Dialogue: 0,0:03:43.15,0:03:45.82,Dialogue,,0,0,0,,Ezt hallottam Agasa professzortól.
+Dialogue: 0,0:03:45.32,0:03:49.19,Dialogue,,0,0,0,,A bácsi egyszerűen beállította a Woo-t\Na nappaliban, hogy rögzítse a drámát...
+Dialogue: 0,0:03:48.19,0:03:51.89,Dialogue,,0,0,0,,És a DLNA szerver funkciót használva...
+Dialogue: 0,0:03:50.89,0:03:54.73,Dialogue,,0,0,0,,Képes volt előretekerni és megnézni a\Ndrámát a Woo-n a szobájában!
+Dialogue: 0,0:03:54.03,0:03:56.50,Dialogue,,0,0,0,,Mi a fene, apa!?
+Dialogue: 0,0:03:55.50,0:03:59.60,Dialogue,,0,0,0,,Úgy csaltál, hogy minden egyes alkalommal\Nelőre megnézted a felvett műsort!?
+Dialogue: 0,0:03:56.72,0:03:59.59,Dialogue Top,,0,0,0,,Nem, nem, ez nem az amire...
+Dialogue: 0,0:03:58.97,0:04:01.10,Dialogue,,0,0,0,,Ran nővérkém...
+Dialogue: 0,0:04:00.67,0:04:03.07,Dialogue,,0,0,0,,Ismered ezeket az embereket?
+Dialogue: 0,0:04:02.61,0:04:05.27,Dialogue,,0,0,0,,Ők azok, akik a minap nálunk voltak, igaz?
+Dialogue: 0,0:04:04.81,0:04:07.01,Dialogue,,0,0,0,,És, ez.
+Dialogue: 0,0:04:06.51,0:04:10.41,Dialogue,,0,0,0,,„24 Órás Premier Plán Sorozat”?
+Dialogue: 0,0:04:09.41,0:04:12.68,Dialogue,,0,0,0,,Azt írja, hogy egy közeli interjú, de azóta nem jöttek vissza...
+Dialogue: 0,0:04:12.38,0:04:14.82,Dialogue,,0,0,0,,Ez egy kandikamera.
+Dialogue: 0,0:04:14.28,0:04:16.78,Dialogue,,0,0,0,,Akkor készítették ide.
+Dialogue: 0,0:04:16.79,0:04:22.79,Dialogue,,0,0,0,,Gondoltam, hogy valami más a szobában, mint szokott,\Nkiderült, hogy ez a növény rejtette el a kamerát.
+Dialogue: 0,0:04:21.79,0:04:25.26,Dialogue,,0,0,0,,Jaj ne, akkor egész idő alatt vettek minket?
+Dialogue: 0,0:04:24.66,0:04:26.96,Dialogue,,0,0,0,,Ne aggódj.
+Dialogue: 0,0:04:25.96,0:04:28.66,Dialogue,,0,0,0,,Már kikapcsoltam a kamerát.
+Dialogue: 0,0:04:29.45,0:04:31.00,Dialogue,,0,0,0,,Geez! Jesszus!
+Dialogue: 0,0:04:30.25,0:04:34.47,Dialogue,,0,0,0,,Apa, hogy mehettél bele ilyesmibe engedély nélül?!?
+Dialogue: 0,0:04:31.86,0:04:34.46,Dialogue Top,,0,0,0,,Ez csak egy kis ingyenes szolgáltatás!
+Dialogue: 0,0:04:34.20,0:04:39.27,Dialogue,,0,0,0,,Először is, ennek a műsornak nem a {\i1}természetes{\i0} énünket kéne felvegye?!
+Dialogue: 0,0:04:40.01,0:04:42.68,Dialogue,,0,0,0,,Legyen az apa vagy Shinichi!
+Dialogue: 0,0:04:43.31,0:04:46.38,Dialogue,,0,0,0,,Miért kell minden nyomozónak ilyennek lennie!?
+Dialogue: 0,0:04:45.78,0:04:48.52,Dialogue,,0,0,0,,Ajj, nem hiszem el!
+Dialogue: 0,0:04:47.52,0:04:50.22,Dialogue,,0,0,0,,Miért kell engem is megemlítened?
+Dialogue: 0,0:04:49.22,0:04:51.27,Dialogue,,0,0,0,,Hihetetlen!
+Dialogue: 0,0:05:32.70,0:05:35.72,Dialogue,,0,0,0,,24 Órás Premier Plán Sorozat”!
+Dialogue: 0,0:05:34.72,0:05:39.30,Dialogue,,0,0,0,,Kameránk ezúttal a híres nyomozóra, Mouri Kogoróra és családjára fókuszált!
+Dialogue: 0,0:05:39.13,0:05:41.27,Dialogue,,0,0,0,,Ott vagyok a képernyőn!
+Dialogue: 0,0:05:41.20,0:05:44.00,Dialogue,,0,0,0,,Milyen jóképűnek látszom!
+Dialogue: 0,0:05:43.01,0:05:45.21,Dialogue,,0,0,0,,Én is látszom!
+Dialogue: 0,0:05:44.71,0:05:47.67,Dialogue,,0,0,0,,Klassz lett ez a felvétel, ugye?!
+Dialogue: 0,0:05:47.24,0:05:49.14,Dialogue,,0,0,0,,Az csak a látszat volt!
+Dialogue: 0,0:05:50.01,0:05:55.78,Dialogue,,0,0,0,,Ez a híres nyomozó, Móri Kogoró magánélete,\Naki bárhová megy, megoldja az eseteket..
+Dialogue: 0,0:05:54.78,0:05:59.59,Dialogue,,0,0,0,,Egy játékos oldalát mutatta meg, mikor még\Na családjának is rejtélyeket fejtett meg.
 Dialogue: 0,0:06:00.02,0:06:02.86,Dialogue,,0,0,0,,Tudtam, hogy rejtély mániás, de...
 Dialogue: 0,0:06:02.86,0:06:07.53,Dialogue,,0,0,0,,Ha még tévénézés közben is ilyen,\Nakkor a családjának nehéz dolga lehet.
 Dialogue: 0,0:06:08.56,0:06:11.37,Dialogue,,0,0,0,,Azt mondta, "a családjának nehéz dolga lehet".
