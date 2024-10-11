@@ -108,30 +108,30 @@ Dialogue: 0,0:03:24.40,0:03:25.65,Dialogue,,0,0,0,,D L N A?
 Dialogue: 0,0:03:25.70,0:03:26.35,Dialogue,,0,0,0,,Igen.
 Dialogue: 0,0:03:26.38,0:03:28.06,Dialogue,,0,0,0,,Digital Living Network Alliance.
 Dialogue: 0,0:03:28.07,0:03:34.17,Dialogue,,0,0,0,,Ennek segítségével a nappali tévéjén felvett\Nműsor a bácsi szobájában lévő Wooo-n nézhető.
-Dialogue: 0,0:03:34.44,0:03:35.51,Dialogue,,0,0,0,,Ezt nem tudtam!
-Dialogue: 0,0:03:36.11,0:03:37.64,Dialogue,,0,0,0,,Szóval a Wooo-nak van ilyen funkciója is!
-Dialogue: 0,0:03:38.00,0:03:40.40,Dialogue,,0,0,0,,Ha csatlakoztatod a Wooo-t az internethez...
+Dialogue: 0,0:03:34.40,0:03:35.51,Dialogue,,0,0,0,,Ezt nem tudtam!
+Dialogue: 0,0:03:35.81,0:03:37.64,Dialogue,,0,0,0,,Szóval a Wooo-nak van ilyen funkciója is!
+Dialogue: 0,0:03:37.80,0:03:40.40,Dialogue,,0,0,0,,Ha csatlakoztatod a Wooo-t az internethez...
 Dialogue: 0,0:03:40.49,0:03:43.13,Dialogue,,0,0,0,,A felvett műsorokat akár egy másik szobában is megnézheted.
 Dialogue: 0,0:03:43.14,0:03:46.05,Dialogue,,0,0,0,,Ezt hallottam Agasa professzortól.
 Dialogue: 0,0:03:46.10,0:03:48.76,Dialogue,,0,0,0,,A bácsi egyszerűen beállította a Woo-t\Na nappaliban, hogy rögzítse a drámát...
 Dialogue: 0,0:03:48.79,0:03:51.35,Dialogue,,0,0,0,,És a DLNA szerver funkciót használva...
 Dialogue: 0,0:03:51.40,0:03:54.53,Dialogue,,0,0,0,,Képes volt előretekerni és megnézni a\Ndrámát a Woo-n a szobájában!
-Dialogue: 0,0:03:55.01,0:03:56.48,Dialogue,,0,0,0,,Mi a fene, apa!?
-Dialogue: 0,0:03:56.50,0:03:59.62,Dialogue,,0,0,0,,Úgy csaltál, hogy minden egyes alkalommal\Nelőre megnézted a felvett műsort!?
+Dialogue: 0,0:03:54.91,0:03:56.22,Dialogue,,0,0,0,,Mi a fene, apa!?
+Dialogue: 0,0:03:56.23,0:03:59.62,Dialogue,,0,0,0,,Úgy csaltál, hogy minden egyes alkalommal\Nelőre megnézted a felvett műsort!?
 Dialogue: 0,0:03:58.12,0:03:59.65,Dialogue Top,,0,0,0,,Nem, nem, ez nem az amire...
-Dialogue: 0,0:03:59.88,0:04:01.61,Dialogue,,0,0,0,,Ran nővérkém...
+Dialogue: 0,0:03:59.86,0:04:01.61,Dialogue,,0,0,0,,Ran nővérkém...
 Dialogue: 0,0:04:01.51,0:04:02.96,Dialogue,,0,0,0,,Ismered ezeket az embereket?
 Dialogue: 0,0:04:03.26,0:04:05.42,Dialogue,,0,0,0,,Ők azok, akik a minap nálunk voltak, igaz?
 Dialogue: 0,0:04:05.50,0:04:07.06,Dialogue,,0,0,0,,És, ez.
-Dialogue: 0,0:04:07.11,0:04:09.57,Dialogue,,0,0,0,,„24 Órás Premier Plán Sorozat”?
-Dialogue: 0,0:04:10.26,0:04:12.66,Dialogue,,0,0,0,,Azt írja, hogy egy közeli interjú, de azóta nem jöttek vissza...
+Dialogue: 0,0:04:07.09,0:04:09.57,Dialogue,,0,0,0,,„24 Órás Premier Plán Sorozat”?
+Dialogue: 0,0:04:06.26,0:04:12.66,Dialogue,,0,0,0,,Azt írja, hogy egy közeli interjú, de azóta nem jöttek vissza...
 Dialogue: 0,0:04:13.11,0:04:14.88,Dialogue,,0,0,0,,Ez egy kandikamera.
 Dialogue: 0,0:04:14.93,0:04:16.76,Dialogue,,0,0,0,,Akkor készítették ide.
 Dialogue: 0,0:04:17.50,0:04:22.33,Dialogue,,0,0,0,,Gondoltam, hogy valami más a szobában, mint szokott,\Nkiderült, hogy ez a növény rejtette el a kamerát.
 Dialogue: 0,0:04:22.42,0:04:25.08,Dialogue,,0,0,0,,Jaj ne, akkor egész idő alatt vettek minket?
 Dialogue: 0,0:04:25.46,0:04:26.48,Dialogue,,0,0,0,,Ne aggódj.
 Dialogue: 0,0:04:26.66,0:04:28.70,Dialogue,,0,0,0,,Már kikapcsoltam a kamerát.
-Dialogue: 0,0:04:30.25,0:04:30.85,Dialogue,,0,0,0,,Geez! Jesszus!
+Dialogue: 0,0:04:30.08,0:04:30.85,Dialogue,,0,0,0,,Jesszus!
 Dialogue: 0,0:04:30.86,0:04:34.00,Dialogue,,0,0,0,,Apa, hogy mehettél bele ilyesmibe engedély nélül?!?
 Dialogue: 0,0:04:32.89,0:04:34.86,Dialogue Top,,0,0,0,,Ez csak egy kis ingyenes szolgáltatás!
 Dialogue: 0,0:04:34.86,0:04:38.91,Dialogue,,0,0,0,,Először is, ennek a műsornak nem a {\i1}természetes{\i0} énünket kéne felvegye?!
