@@ -146,7 +146,7 @@ Dialogue: 0,0:05:39.15,0:05:41.59,Dialogue,,0,0,0,,Oh, ott vagyok a képernyőn!
 Dialogue: 0,0:05:41.60,0:05:43.57,Dialogue,,0,0,0,,Milyen jóképűnek látszom!
 Dialogue: 0,0:05:43.58,0:05:44.82,Dialogue,,0,0,0,,Én is látszom!
 Dialogue: 0,0:05:45.52,0:05:47.47,Dialogue,,0,0,0,,Klassz lett ez a felvétel, ugye?!
-Dialogue: 0,0:05:47.74,0:05:49.36,Dialogue,,0,0,0,,Az csak a látszat volt!
+Dialogue: 0,0:05:47.74,0:05:49.36,Dialogue,,0,0,0,,Az csak színjáték volt, nem igaz?
 Dialogue: 0,0:05:50.56,0:05:55.40,Dialogue,,0,0,0,,Ez a híres nyomozó, Móri Kogoró magánélete,\Naki bárhová megy, megoldja az eseteket..
 Dialogue: 0,0:05:55.41,0:05:59.25,Dialogue,,0,0,0,,Egy játékos oldalát mutatta meg, mikor még\Na családjának is rejtélyeket fejtett meg.
 Dialogue: 0,0:05:59.78,0:06:02.03,Dialogue,,0,0,0,,Tudtam, hogy rejtély mániás, de...
