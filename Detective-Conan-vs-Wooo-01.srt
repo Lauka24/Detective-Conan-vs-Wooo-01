@@ -72,13 +72,13 @@ Dialogue: 0,0:01:47.57,0:01:51.06,Dialogue,,0,0,0,,Az még rendben, ha csak az e
 Dialogue: 0,0:01:51.41,0:01:53.54,Dialogue,,0,0,0,,Mégis, mi ez a kellemetlen érzés?
 Dialogue: 0,0:01:51.76,0:01:54.10,Dialogue Top,,0,0,0,,Végül is zseni vagyok!
 Dialogue: 0,0:01:56.88,0:02:00.95,Dialogue,,0,0,0,,Az előbbi dráma biztos saját forgatókönyv\Nés nem egy eredeti mű alapján készült.
-Dialogue: 0,0:02:01.72,0:02:05.34,Dialogue,,0,0,0,,A Tv ebben a szobában az a típus, ami nem rendelkezik\Nrögzítő funkcióval —\a Woo "H" széria. 
+Dialogue: 0,0:02:01.72,0:02:05.34,Dialogue,,0,0,0,,A Tv ebben a szobában az a típus, ami nem rendelkezik\Nrögzítő funkcióval — Woo "H" széria. 
 Dialogue: 0,0:02:05.75,0:02:06.62,Dialogue,,0,0,0,,Videórögzítő sincs.
 Dialogue: 0,0:02:07.79,0:02:10.79,Dialogue,,0,0,0,,Mivel a számítógép és a telefonja is a nappaliban volt...
 Dialogue: 0,0:02:10.79,0:02:13.38,Dialogue,,0,0,0,,Nem tudhatta meg a szobájából a sorozat tartalmát.
 Dialogue: 0,0:02:15.23,0:02:16.95,Dialogue,,0,0,0,,Woo "H" széria?
 Dialogue: 0,0:02:18.30,0:02:19.56,Dialogue,,0,0,0,,És a másik a nappaliban...
-Dialogue: 0,0:02:20.19,0:02:23.27,Dialogue,,0,0,0,,Az a típus, ami rendelkezik rögzítő funcióval—\ha Woo "XP" széria!
+Dialogue: 0,0:02:20.19,0:02:23.27,Dialogue,,0,0,0,,Az a típus, ami rendelkezik rögzítő funcióval — Woo "XP" széria!
 Dialogue: 0,0:02:23.77,0:02:25.37,Dialogue,,0,0,0,,Ha Agasa szavaira gondolok...
 Dialogue: 0,0:02:26.11,0:02:29.14,Dialogue,,0,0,0,,Habár ez nem az egyik legújabb találmányom...
 Dialogue: 0,0:02:29.14,0:02:30.58,Dialogue,,0,0,0,,Woo-nak hívják.
