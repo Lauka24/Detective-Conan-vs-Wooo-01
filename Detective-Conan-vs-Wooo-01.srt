@@ -70,7 +70,7 @@ Dialogue: 0,0:01:44.67,0:01:45.93,Dialogue,,0,0,0,,Én is most látom először!
 Dialogue: 0,0:01:46.63,0:01:47.57,Dialogue,,0,0,0,,Hazugság
 Dialogue: 0,0:01:47.57,0:01:51.06,Dialogue,,0,0,0,,Az még rendben, ha csak az elkövetőt,\Nde hogy még a trükköt is eltaláltad!?!
 Dialogue: 0,0:01:51.41,0:01:53.54,Dialogue,,0,0,0,,Mégis, mi ez a kellemetlen érzés?
-Dialogue: 0,0:01:51.76,0:01:54.10,Dialogue Top,,0,0,0,,végül is zseni vagyok!
+Dialogue: 0,0:01:51.76,0:01:54.10,Dialogue Top,,0,0,0,,Végül is zseni vagyok!
 Dialogue: 0,0:01:56.88,0:02:00.95,Dialogue,,0,0,0,,Az előbbi dráma biztos saját forgatókönyv\Nés nem egy eredeti mű alapján készült.
 Dialogue: 0,0:02:01.72,0:02:05.34,Dialogue,,0,0,0,,A Tv ebben a szobában az a típus, ami nem rendelkezik\Nrögzítő funkcióval —\a Woo "H" széria. 
 Dialogue: 0,0:02:05.75,0:02:06.62,Dialogue,,0,0,0,,Videórögzítő sincs.
